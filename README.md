@@ -1,6 +1,2 @@
 # test
-1 - https://faqing.aicao.net/
-
-2 - https://wssb.com/
-
-3 - https://web.rnm.com/
+本文档主要用于查找网址。请根据你从机器人获得的编码查找对应网址。
